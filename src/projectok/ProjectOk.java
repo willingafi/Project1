@@ -41,6 +41,7 @@ public class ProjectOk {
             default: System.out.println("Pas de solutions");
         }
 */      
+       System.out.println("Ok");
         int u;
         Scanner d=new Scanner(System.in);
         /* do {
