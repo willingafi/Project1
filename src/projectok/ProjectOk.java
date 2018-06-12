@@ -12,6 +12,8 @@ import java.util.Scanner;
  * @author willy-ngafi
  */
 public class ProjectOk {
+
+
     /**
      * @param args the command line arguments
      */
@@ -40,7 +42,10 @@ public class ProjectOk {
             default: System.out.println("Pas de solutions");
         }
 */      
+
        System.out.println("It's Ok for me by God's grace");
+
+       System.out.println("Ok");
         int u;
         Scanner d=new Scanner(System.in);
         /* do {
