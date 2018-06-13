@@ -25,6 +25,7 @@ public class ProjectOk {
         System.out.println(chaine);
         
         //Nothing to add.
+        //Something new
         
         System.out.println("Veuillez entrez svp");
         Scanner b=new Scanner(System.in);
